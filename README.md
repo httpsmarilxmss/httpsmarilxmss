@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, welcome to my little space! 🫀 👋
 
-<!--
-**httpsmarilxmss/httpsmarilxmss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mari 😸
+- I'm currently in highschool 📚
+- I'm learning with the platform [Alura](https://alura.com.br)
+- Just getting to know a bit of this kinda stuff
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Want to get to know me a bit more? 📬
+  
+  @marianelemess on instagram
+  
+![](https://media1.tenor.com/m/npK9KyUJqMUAAAAC/taylor-taylor-swift-eras-tour.gif)
+ 
+  
